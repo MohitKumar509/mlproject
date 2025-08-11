@@ -1,0 +1,62 @@
+gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+male,group D,master's degree,free/reduced,completed,70.0,62.0,49.0
+male,group E,some high school,standard,completed,88.0,43.0,31.0
+female,group B,some college,free/reduced,none,73.0,55.0,68.0
+male,group A,high school,free/reduced,completed,99.0,33.0,71.0
+male,group A,high school,free/reduced,completed,98.0,87.0,71.0
+female,group D,some high school,free/reduced,none,63.0,31.0,62.0
+male,group A,associate's degree,free/reduced,completed,75.0,36.0,98.0
+female,group C,bachelor's degree,free/reduced,none,54.0,68.0,94.0
+female,group C,bachelor's degree,free/reduced,none,38.0,77.0,88.0
+female,group D,high school,standard,none,62.0,84.0,34.0
+male,group A,some college,free/reduced,none,67.0,98.0,48.0
+female,group E,master's degree,standard,completed,38.0,45.0,73.0
+female,group B,master's degree,standard,completed,53.0,78.0,36.0
+female,group E,master's degree,free/reduced,none,33.0,81.0,53.0
+female,group A,associate's degree,standard,none,72.0,98.0,86.0
+male,group C,master's degree,free/reduced,completed,60.0,80.0,77.0
+male,group B,bachelor's degree,free/reduced,none,85.0,96.0,73.0
+male,group B,some high school,free/reduced,completed,84.0,96.0,63.0
+male,group A,some college,free/reduced,completed,81.0,56.0,98.0
+female,group D,associate's degree,standard,completed,78.0,56.0,76.0
+female,group E,high school,free/reduced,none,46.0,78.0,64.0
+female,group A,some high school,free/reduced,none,55.0,84.0,93.0
+male,group E,master's degree,standard,completed,42.0,52.0,46.0
+male,group E,bachelor's degree,free/reduced,none,37.0,99.0,51.0
+female,group C,some high school,free/reduced,none,58.0,96.0,57.0
+female,group E,some high school,standard,completed,49.0,46.0,50.0
+male,group C,master's degree,free/reduced,completed,93.0,50.0,43.0
+male,group B,some college,standard,none,61.0,91.0,79.0
+male,group C,bachelor's degree,standard,completed,90.0,83.0,65.0
+female,group E,associate's degree,standard,completed,66.0,47.0,68.0
+male,group E,high school,free/reduced,completed,32.0,61.0,30.0
+male,group B,master's degree,free/reduced,none,82.0,68.0,85.0
+male,group D,bachelor's degree,free/reduced,none,67.0,33.0,56.0
+female,group E,associate's degree,standard,completed,51.0,97.0,94.0
+female,group C,bachelor's degree,standard,completed,37.0,80.0,51.0
+male,group D,some college,standard,completed,79.0,68.0,53.0
+female,group E,bachelor's degree,standard,completed,30.0,84.0,53.0
+female,group E,some college,standard,none,31.0,69.0,57.0
+female,group C,associate's degree,free/reduced,none,84.0,87.0,34.0
+female,group C,high school,free/reduced,completed,49.0,63.0,58.0
+male,group C,bachelor's degree,free/reduced,none,41.0,48.0,38.0
+female,group D,associate's degree,standard,none,81.0,86.0,66.0
+male,group D,bachelor's degree,standard,completed,92.0,61.0,47.0
+male,group B,some high school,free/reduced,none,100.0,78.0,76.0
+female,group B,master's degree,standard,completed,60.0,52.0,75.0
+male,group E,some high school,free/reduced,completed,53.0,58.0,63.0
+male,group A,associate's degree,standard,completed,39.0,78.0,88.0
+male,group B,associate's degree,standard,completed,82.0,89.0,94.0
+male,group D,bachelor's degree,standard,none,86.0,80.0,42.0
+female,group B,high school,free/reduced,completed,50.0,70.0,67.0
+female,group A,some high school,standard,completed,88.0,56.0,92.0
+female,group D,associate's degree,standard,completed,95.0,96.0,44.0
+female,group D,some college,free/reduced,none,98.0,79.0,95.0
+female,group D,associate's degree,standard,completed,85.0,91.0,68.0
+male,group A,some college,standard,completed,44.0,64.0,44.0
+female,group A,high school,standard,completed,100.0,62.0,94.0
+male,group A,high school,free/reduced,completed,45.0,55.0,73.0
+female,group E,some high school,free/reduced,completed,83.0,42.0,86.0
+male,group D,some college,standard,none,98.0,85.0,64.0
+female,group A,some high school,free/reduced,none,59.0,36.0,38.0
+male,group E,associate's degree,free/reduced,none,76.0,80.0,96.0
